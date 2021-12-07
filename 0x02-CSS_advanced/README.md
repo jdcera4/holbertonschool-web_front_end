@@ -435,7 +435,7 @@
 
 <h2>End goal of the project</h2>
 
-<p><img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/10/b9a220ba79af9ede6fc5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211206%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20211206T160427Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=433544cec2b6cc0eced59b1c861fd6af50307e822448790cce7e5042b6a89f5b" alt="" style=""></p>
+<p><img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/10/b9a220ba79af9ede6fc5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211206T160427Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=433544cec2b6cc0eced59b1c861fd6af50307e822448790cce7e5042b6a89f5b" alt="" style=""></p>
 
 <p>Important note: <strong>details are important!</strong> lowercase vs uppercase / wrong letter… be careful!</p>
 
