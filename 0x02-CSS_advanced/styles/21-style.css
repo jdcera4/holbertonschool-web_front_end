@@ -57,9 +57,9 @@ ul.row {
 }
 
 .row:empty:after {
-    content: "";
+    content: none;
     display: table;
-    clear: both;
+    clear: none;
 }
   
 .col-1-3 {
