@@ -48,7 +48,12 @@ html {
     text-transform: var(--section-tagline-transform);
     font-weight: var(--font-weight-bold);
   }
-  
+
+.container{
+    width: 960px;
+    margin: auto;
+}
+
   .section-title {
     font-family: var(--font-family-title);
     font-size: var(--font-size-xx-large);
